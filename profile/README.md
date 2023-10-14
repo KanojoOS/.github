@@ -12,7 +12,7 @@ We currently support Android 13, with the latest security patches from Google.
 Visit these important repositories:
 
 - [Manifest](https://github.com/KanojoOS/manifest)
-- [Vendor](https://github.com/KanojoOS/vendor_evolution)
+- [Vendor](https://github.com/KanojoOS/kanojo_vendor)
 - [Devices](https://github.com/KanojoOS-Devices)
 
 1. You may use [this](https://github.com/KanojoOS-Devices/device_xiaomi_raphael/commit/16fb4644fcfe3d2d73f27a8ef907451acf6d39e2) commit as a reference.
