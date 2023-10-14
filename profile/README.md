@@ -3,9 +3,8 @@ Kanojo OS
 
 Welcome to Kanojo OS!
 
-Kanojo OS allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
-
-We currently support Android 13, with the latest security patches from Google.
+Kanojo mean a girlfriend
+彼 かの 女 じょ • (kanojo) (colloquial) a girlfriend (a female partner in a romantic relationship) quotations (Source:[wiktionary] (https://en.wiktionary.org/wiki/%E5%BD%BC%E5%A5%B3#:~:text=Noun-,%E5%BD%BC%20%E3%81%8B%E3%81%AE%20%E5%A5%B3%20%E3%81%98%E3%82%87%20%E2%80%A2%20(kanojo),a%20romantic%20relationship)%20quotations%20%E2%96%BC) )
 
 ### Beginner guide
 
