@@ -32,7 +32,7 @@ Visit [this link](https://github.com/KanojoOS/manifest#applying-for-maintainersh
 ### Important Links
 
 - [Website](https://kanojo-os.my.id)
-- [Telegram channel](https://t.me/Kanojo-OS-Official)
-- [Telegram group](https://t.me/KanojoOS)
+- [Telegram channel](https://t.me/kanojo_OSupdate)
+- [Telegram group](https://t.me/kanojoOS_discussion)
 - [Supported devices](https://github.com/KanojoOS-Devices/official_devices/tree/master/builds)
 - [Changelogs](https://github.com/KanojoOS-Devices/official_devices/tree/master/changelogs)
