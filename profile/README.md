@@ -19,7 +19,7 @@ This rom created because the owner have a reference with girlfriend in Japanese(
 
 Visit these important repositories:
 
-- [Manifest](https://github.com/KanojoOS/manifest)
+- [Manifest](https://github.com/KanojoOS/manifesto)
 - [Vendor](https://github.com/KanojoOS/kanojo_vendor)
 - [Devices](https://github.com/KanojoOS-Devices)
 
