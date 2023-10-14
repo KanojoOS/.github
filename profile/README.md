@@ -7,6 +7,14 @@ Kanojo mean a girlfriend
 彼 かの 女 じょ • (kanojo) (colloquial) a girlfriend (a female partner in a romantic relationship) quotations
 (Source:[wiktionary](https://en.wiktionary.org/wiki/%E5%BD%BC%E5%A5%B3#:~:text=Noun-,%E5%BD%BC%20%E3%81%8B%E3%81%AE%20%E5%A5%B3%20%E3%81%98%E3%82%87%20%E2%80%A2%20(kanojo),a%20romantic%20relationship))
 
+This rom created because the owner have a reference with girlfriend in Japanese(Kanojo) and this ROM will have an customization
+
+### Minimum Requirement for building
+
+- Have an minimum 16GB of RAM
+- Have an minimum 200GB of Storage
+- Have an 8 Core CPUs
+
 ### Beginner guide
 
 Visit these important repositories:
