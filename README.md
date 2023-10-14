@@ -1,9 +1,5 @@
-## ![Evolution X](https://raw.githubusercontent.com/Evolution-X/.github/main/EvoBanner.png)
-
 Kanojo OS
 ===========
-
-## [![Download Evolution X](https://img.shields.io/sourceforge/dt/evolution-x.svg)](https://sourceforge.net/projects/evolution-x/files)
 
 Welcome to Kanojo OS!
 
@@ -23,7 +19,7 @@ Visit these important repositories:
 2. Follow the intructions in the [manifest](https://github.com/KanojoOS/manifest) repo to initialize the working directory.
 3. Use the ```mka kanojo``` command to start your build.
 
-## Visit [this link](https://github.com/Evolution-X/manifest#applying-for-maintainership-of-a-device) for more information on how to apply as a maintainer.
+Visit [this link](https://github.com/KanojoOS/manifest#applying-for-maintainership-of-a-device) for more information on how to apply as a maintainer.
 
 ### Important Links
 
